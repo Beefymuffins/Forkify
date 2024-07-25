@@ -39,6 +39,10 @@ Forkify is a recipe search and saving application designed with HTML5, CSS3, and
 
 <!-- Images -->
 
+## Example Images
+![forkify2](https://github.com/user-attachments/assets/778f5676-37b7-4a88-b911-37e772234579)
+![forkify1](https://github.com/user-attachments/assets/acd03459-005e-4d47-aa80-54f97df2092e)
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
