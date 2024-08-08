@@ -8,13 +8,13 @@
   <a href="https://forkify-alamin.netlify.app/" target="_blank">
     <img alt="Demo" src="https://img.shields.io/badge/demo-online-green.svg" />
   </a>
-  <a href="https://github.com/Beefymuffins/Forkify#readme" target="_blank">
+  <a href="https://github.com/CarlesCoding/Forkify#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/Beefymuffins/Forkify/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/CarlesCoding/Forkify/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
   </a>
-  <a href="https://github.com/Beefymuffins/Forkify/blob/main/LICENSE.md" target="_blank">
+  <a href="https://github.com/CarlesCoding/Forkify/blob/main/LICENSE.md" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
@@ -153,9 +153,9 @@ For more examples, please refer to the <a href="https://forkify-api.herokuapp.co
 👤 Austin Carles
 
 - Linkedin: [@carlescoding](https://www.linkedin.com/in/carlescoding/)
-- Github: [@Beefymuffins](https://github.com/Beefymuffins)
+- Github: [@Beefymuffins](https://github.com/CarlesCoding)
 
-Project Link: [https://github.com/Beefymuffins/Forkify](https://github.com/Beefymuffins/Forkify)
+Project Link: [https://github.com/Beefymuffins/Forkify](https://github.com/CarlesCoding/Forkify)
 
 <!-- Acknowledgments  -->
 
